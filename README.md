@@ -1,8 +1,40 @@
-# React + Vite
+# SUBY - Food Discovery Platform
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+![SUBY Logo](image.png)
 
-Currently, two official plugins are available:
+A food discovery and delivery platform showcasing popular dishes and top restaurant chains in Hyderabad.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Features
+
+### User Facing
+- **Search functionality** for restaurants and dishes
+- **Popular food categories** display (Bonda, Dosa, Idli, etc.)
+- **Top restaurant chains** section
+- **User authentication** (Login/SignUp)
+
+### Restaurant Facing
+- Restaurant profile pages
+- Menu management
+- Order tracking
+
+## Technologies Used
+
+### Frontend
+- React.js
+- Next.js (for SSR)
+- Tailwind CSS (for styling)
+- Redux Toolkit (state management)
+- React Icons (for icons)
+- Swiper.js (for carousels)
+
+### Backend
+- Node.js
+- Express.js
+- MongoDB (with Mongoose)
+- JWT (for authentication)
+- Cloudinary (for image storage)
+
+### APIs
+- Swiggy/Zomato API (for restaurant data)
+- Google Maps API (for location services)
+
