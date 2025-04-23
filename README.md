@@ -4,6 +4,9 @@
 
 A food discovery and delivery platform showcasing popular dishes and top restaurant chains in Hyderabad.
 
+<img src="https://github.com/user-attachments/assets/4aa4947c-cc72-4d19-919f-f757aecea284",
+
+
 ## Features
 
 ### User Facing
